@@ -44,7 +44,7 @@ Welcome to my little corner of GitHub! I’m passionate about **blockchain**, **
 
 ---
 
-## 📊 Lab BOM
+## 📊 Lab Components
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dumebai&layout=compact&theme=radical)
 
@@ -52,7 +52,7 @@ Welcome to my little corner of GitHub! I’m passionate about **blockchain**, **
 
 ## 🤝 Let’s Connect
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/dumebai)
+- **LinkedIn**: in/dumebai (https://www.linkedin.com/in/dumebai)
 - **Twitter**: [@YourTwitterHandle](https://twitter.com/yourhandle)
 
 ---
