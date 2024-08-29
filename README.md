@@ -28,7 +28,6 @@
 ## 🤝 Let’s Connect
 
 - **LinkedIn**: [in/dumebai](https://www.linkedin.com/in/dumebai)
-- **Twitter**: [@YourTwitterHandle](https://twitter.com/yourhandle)
 
 ---
 
