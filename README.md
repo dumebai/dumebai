@@ -1,14 +1,4 @@
-# 👋 Hello! I'm Adrian (Nickname: Dume)
-
----
-
-## 🛠️ A Curious Developer on a Journey
-
-Welcome to my little corner of GitHub! I’m passionate about **blockchain**, **Python**, **C#**, and sometimes I tinker with **AI**. I love solving problems with code and learning something new every day.
-
-- 🧩 **Puzzle Solver**: The more complex the problem, the more fun I have cracking it.
-- 🔗 **Code Alchemist**: Turning caffeine into code and ideas into reality.
-- 🛠 **Tech Arsenal**: Blockchain, Python, C#, RPA, AI - hustling from a young age, I've also did web.
+# 👋 Hello! I'm Adrian (Nick: Dume)
 
 ---
 
@@ -28,22 +18,6 @@ Welcome to my little corner of GitHub! I’m passionate about **blockchain**, **
 
 ---
 
-## 🚀 Current Schemes
-
-- 🔗 **Blockchain Conjurations**: Plotting the next decentralized breakthrough.
-- 🤖 **Automation Overlords**: Engineering bots to handle the heavy lifting.
-- 🧠 **AI Brainpower**: Teaching machines to outthink their creators.
-
----
-
-## 🎮 Fun Facts
-
-- **Gamer at Heart**: When I’m not coding, I’m probably playing games.
-- **DogFather**: Husky person.
-- **Caffeine Lover**: Coffee fuels my code—one cup at a time.
-- **Lifelong Learner**: Currently diving into blockchain and web3.
-
----
 
 ## 📊 Lab Components
 
