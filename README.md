@@ -39,8 +39,9 @@ Welcome to my little corner of GitHub! I’m passionate about **blockchain**, **
 ## 🎮 Fun Facts
 
 - **Gamer at Heart**: When I’m not coding, I’m probably playing games.
+- **DogFather**: Husky person.
 - **Caffeine Lover**: Coffee fuels my code—one cup at a time.
-- **Lifelong Learner**: Currently diving into [insert current learning focus].
+- **Lifelong Learner**: Currently diving into blockchain and web3.
 
 ---
 
@@ -60,7 +61,3 @@ Welcome to my little corner of GitHub! I’m passionate about **blockchain**, **
 ## ⭐ Thanks for Visiting!
 
 Feel free to explore my projects, leave a star if something catches your eye, or get in touch if you want to collaborate. Happy coding!
-
----
-
-This version strikes a balance between being approachable, humble, and still showcasing your skills and enthusiasm for tech.
