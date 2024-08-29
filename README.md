@@ -6,9 +6,9 @@
 
 Welcome to my little corner of GitHub! I’m passionate about **blockchain**, **Python**, **C#**, and sometimes I tinker with **AI**. I love solving problems with code and learning something new every day.
 
-- 🔍 **Problem Solver**: I enjoy finding simple solutions to complex problems.
-- 🧑‍💻 **Code Enthusiast**: Writing clean, efficient code is what I strive for.
-- 🛠 **Tech Stack**: Blockchain, Python, C#, RPA, AI, and whatever else catches my eye.
+- 🧩 **Puzzle Solver**: The more complex the problem, the more fun I have cracking it.
+- 🔗 **Code Alchemist**: Turning caffeine into code and ideas into reality.
+- 🛠 **Tech Arsenal**: Blockchain, Python, C#, RPA, AI - hustling from a young age, I've also did web.
 
 ---
 
@@ -28,11 +28,11 @@ Welcome to my little corner of GitHub! I’m passionate about **blockchain**, **
 
 ---
 
-## 🚀 What I’m Working On
+## 🚀 Current Schemes
 
-- 🔗 **Blockchain Projects**: Exploring new possibilities with decentralized tech.
-- 🤖 **Automation Tools**: Creating bots that handle repetitive tasks.
-- 🧠 **AI Models**: Training algorithms to learn from data and make predictions.
+- 🔗 **Blockchain Conjurations**: Plotting the next decentralized breakthrough.
+- 🤖 **Automation Overlords**: Engineering bots to handle the heavy lifting.
+- 🧠 **AI Brainpower**: Teaching machines to outthink their creators.
 
 ---
 
