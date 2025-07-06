@@ -1,1 +1,1 @@
-Oh no..
+🌍 Tech is the tool; impact is the mission.
